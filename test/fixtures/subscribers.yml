@@ -1,0 +1,9 @@
+clientA:
+  product: tshirt
+  email: clientA@example.org
+
+clientB:
+  product: tshirt
+  email: clientB@example.org
+
+  
